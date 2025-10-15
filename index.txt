@@ -1,5 +1,1 @@
-
-ToneCrafter 吉他音色智能体 · Web 入口
-将下面的占位链接替换为你的智能体 URL（支持 Coze / 其他平台）。若平台禁止 iframe，将显示跳转按钮。
-
-© ToneCrafter · 吉他音色智能体
+var BOT_URL = "https://chatgpt.com/g/g-68ef94da99648191acbf6c62be5e7d09-tonecrafteryin-se-zhi-zao-shi";
